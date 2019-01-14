@@ -3,7 +3,7 @@
 * [OpenCV简介](chapter1/README.md)
   * [OpenCV基本介绍](chapter1/1.md)
   * [Windows环境下搭建Python-OpenCV环境](chapter1/2.md)
-  * [Linux环境下搭建Python-OpenCV环境](chapter1/2.md)
+  * [Linux环境下搭建Python-OpenCV环境](chapter1/3.md)
 
 * [OpenCV中的GUI功能](chapter2/README.md)
 
