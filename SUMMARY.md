@@ -8,6 +8,73 @@
 * [视频分析](chapter6/README.md)
 * [摄像机校准与三维重建](chapter7/README.md)
 * [机器学习](chapter8/README.md)
+* [机器学习](chapter8/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
