@@ -7,10 +7,10 @@
 
 * [OpenCV中的GUI功能](chapter2/README.md)
   * [图像入门](chapter2/1.md)
-  * [视频入门](chapter2/1.md)
-  * [OpenCV中的绘图函数](chapter2/1.md)
-  * [鼠标画笔](chapter2/1.md)
-  * [轨迹栏调色板](chapter2/1.md)
+  * [视频入门](chapter2/2.md)
+  * [OpenCV中的绘图函数](chapter2/3.md)
+  * [鼠标画笔](chapter2/4.md)
+  * [轨迹栏调色板](chapter2/5.md)
 
 * [核心操作](chapter3/README.md)
 
