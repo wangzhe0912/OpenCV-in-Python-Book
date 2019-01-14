@@ -9,7 +9,8 @@
   * [图像入门](chapter2/1.md)
   * [视频入门](chapter2/1.md)
   * [OpenCV中的绘图函数](chapter2/1.md)
-  * [图像入门](chapter2/1.md)
+  * [鼠标画笔](chapter2/1.md)
+  * [鼠标画笔](chapter2/1.md)
 
 * [核心操作](chapter3/README.md)
 
