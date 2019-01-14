@@ -10,4 +10,4 @@
 * [机器学习](chapter8/README.md)
 * [计算摄影学](chapter9/README.md)
 * [目标检测](chapter10/README.md)
-* [目标检测](chapter10/README.md)
+* [OpenCV与Python](chapter11/README.md)
